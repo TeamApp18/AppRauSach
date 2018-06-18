@@ -1,0 +1,16 @@
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\obj\Debug\netstandard2.0\AppBanHang.csprojAssemblyReference.cache
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\obj\Debug\netstandard2.0\AppBanHang.csproj.CoreCompileInputs.cache
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\obj\Debug\netstandard2.0\AppBanHang.AssemblyInfoInputs.cache
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\obj\Debug\netstandard2.0\AppBanHang.AssemblyInfo.cs
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\bin\Debug\netstandard2.0\AppBanHang.deps.json
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\bin\Debug\netstandard2.0\AppBanHang.dll
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\bin\Debug\netstandard2.0\AppBanHang.pdb
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\obj\Debug\netstandard2.0\AppBanHang.dll
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\obj\Debug\netstandard2.0\AppBanHang.pdb
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\obj\Debug\netstandard2.0\App.xaml.g.cs
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\obj\Debug\netstandard2.0\CreateMember.xaml.g.cs
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\obj\Debug\netstandard2.0\Login.xaml.g.cs
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\obj\Debug\netstandard2.0\test.xaml.g.cs
+N:\xamarin\AppBanHang\AppBanHang\AppBanHang\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,1 @@
+<player-list xmlns:androi="http://schemas.androi.com/apk/res/androi"><item><color androi:color="@color/primary" /></item><item><bitmap androi:src="@drawable/logo" androi:tileMode="disable" androi:grayity="center" /></item></player-list>
